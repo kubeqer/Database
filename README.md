@@ -20,9 +20,6 @@ unit, date, and notes.
 *   **Find Part by Category**: Search for parts by category (Processor, Graphic Card, Motherboard, Peripherals) and 
 display the matching entries.
 
-*   **Sort Parts**: Sort the parts in the store based on various criteria (name, producer, model, category, units, price
-per unit, date).
-
 *   **Display All Parts**: View all parts in the store.
 
 *   **Exit Database**: Exit the current database and return to the main menu.
